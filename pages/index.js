@@ -7,8 +7,8 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-        <!-- Atos RT domain subdomain taken over -->
+        <link rel="icon" href="/favicon.ico" rttest="Atos RT domain subdomain taken over"/>
+        
       </Head>
 
       <main>
