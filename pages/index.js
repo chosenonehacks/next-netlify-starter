@@ -8,13 +8,13 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <!-- Atos RT domain subdomain taken over -->
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-          <!-- https://sportsclub-pp.paris2024.org -->
+          Get started by editing <code>pages/index.js</code>          
         </p>
       </main>
       <Footer />
